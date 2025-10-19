@@ -1,4 +1,7 @@
 # hyprland-setup
+[![Hyprland](https://img.shields.io/badge/Hyprland-Latest-5e81ac?style=for-the-badge&logo=linux&logoColor=white)](https://hyprland.org)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+
 My personal Hyprland configurations (Arch Linux + Hyprland).
 
 # What it contains
