@@ -1,4 +1,4 @@
-# my-hyprland
+# hyprland-setup
 My personal Hyprland configurations (Arch Linux + Hyprland).
 
 # What it contains
