@@ -12,7 +12,10 @@ Suggestions and feedback are welcome!
 ---
 
 # Switching Laptops
-## Input.conf (~/.config/hypr/input.conf)
+## [Input.conf][link-input] (~/.config/hypr/input.conf)
+
+[link-input]: https://github.com/jesseburlamaque/my-hyprland/blob/main/input.conf
+
 
 This file documents the configuration of multiple keyboards with different layouts in Hyprland, allowing simultaneous use of:
 
