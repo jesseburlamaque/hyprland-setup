@@ -44,11 +44,11 @@ In the ~/.config/hypr/input.conf file, replace only the laptop device name:
 
 ```
 device {
-name = NOME_DO_NOVO_TECLADO_AQUI # <-- Substituir esta linha
-kb_layout = br
-kb_variant = abnt2
-kb_model = pc105
-kb_options =
+  name = keyboard-k380-keyboard ##Nome do Teclado Aqui
+  kb_layout = us
+  kb_variant = altgr-intl
+  kb_model = pc105
+  kb_options =
 }
 ```
 
