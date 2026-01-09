@@ -66,3 +66,17 @@ active keymap: Portuguese (Brazil)
 ```
 
 **Note:** The K380 maintains the same name (keyboard-k380-keyboard) on any computer.
+
+
+# Animations
+
+In /home/burlamaque/.config/hypr/looknfeel.conf add:
+
+```
+# Animations
+animations {
+    enabled = true
+    bezier = mybezier, 0.05, 0.9, 0.1, 1.05
+    animation = workspaces, 1, 6, mybezier, slidefade
+}
+```
