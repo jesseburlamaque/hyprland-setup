@@ -9,12 +9,9 @@ My personal Hyprland configurations (Arch Linux + Hyprland).
 - Custom input device adjustments
 - Troubleshooting and computer migration documentation
 
-# Contributions
-Suggestions and feedback are welcome!
-
 ---
 
-# Switching Laptops
+# Switching Keyboards
 ## [Input.conf][link-input] (~/.config/hypr/input.conf)
 
 [link-input]: https://github.com/jesseburlamaque/my-hyprland/blob/main/input.conf
